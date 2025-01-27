@@ -1,5 +1,3 @@
-# Data_Cleaning_PostgreSQL
-
 # Data Cleaning Project with PostgreSQL
 
 Welcome to the **Data Cleaning Project** repository! This project showcases a data cleaning process using PostgreSQL. It demonstrates how to efficiently clean, transform, and prepare raw datasets for analysis and reporting.
