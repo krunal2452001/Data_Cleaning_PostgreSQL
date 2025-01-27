@@ -81,23 +81,6 @@ To run this project on your local machine:
 3. **Export Clean Data**:
    Export the cleaned data to a CSV or other formats for analysis.
 
----
-
-## Project Structure
-
-```plaintext
-.
-├── data/                # Folder for raw datasets
-├── scripts/             # SQL scripts for data cleaning
-│   ├── import_data.sql  # Script to load raw data
-│   ├── clean_step1.sql  # Initial cleaning (duplicates, NULL values)
-│   ├── clean_step2.sql  # Advanced transformations
-├── output/              # Folder for cleaned data exports
-├── README.md            # Project documentation
-```
-
----
-
 ## Sample Queries
 
 Here are a few sample queries used in this project:
