@@ -128,26 +128,4 @@ Here are a few sample queries used in this project:
    WHERE column_name IS NULL;
    ```
 
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request.
-
-
 Thank you for exploring this project! If you have any questions or suggestions, feel free to open an issue or contact me directly.
