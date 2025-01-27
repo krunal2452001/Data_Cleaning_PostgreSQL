@@ -54,13 +54,12 @@ To run this project on your local machine:
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/data-cleaning-postgresql.git
-   cd data-cleaning-postgresql
+   git clone https://github.com/krunal2452001/Data_Cleaning_PostgreSQL.git
+   cd Data-Cleaning-PostgreSQL
    ```
 
 3. **Import the Dataset**:
    - Place your raw data files in the `data/` directory.
-   - Use the `import_data.sql` script to load the data into PostgreSQL.
 
 4. **Run the Cleaning Scripts**:
    - Execute the SQL scripts in the `scripts/` directory sequentially to clean and transform the data.
